@@ -1,36 +1,58 @@
-Pre-entrega: Ciclo Completo de Prueba
-Esta entrega incluye defectos, casos de prueba y reporte.
-Incluir
-Seleccionar los 3 defectos más importantes de lo trabajado en la actividad de la clase 3 y entregar un archivo PDF con todo lo pedido en esa actividad, incluyendo las capturas de pantalla de los errores.
+# Ciclo completo de pruebas — QA Manual
 
-Con la misma página deberán realizar 5 casos de prueba positivos y 5 casos negativos. Una vez escritos, ejecutarlos y comparar resultado en un excel. Recuerden incluir todos los detalles.
+Ejercicio de portfolio de QA Manual que reúne casos de prueba positivos y negativos, reportes de defectos y un informe de resultados para un sistema bajo prueba.
 
-Basados en los resultados de la ejecución, realizar el reporte de resultados como se vio en clase.
+## Objetivo
 
-Objetivos generales
-Reconocer las distintas etapas de un ciclo de prueba manual, basado en testing funcional.
+Documentar un ciclo funcional de pruebas desde la preparación de escenarios hasta la comunicación de defectos y resultados, manteniendo trazabilidad entre los casos ejecutados y la evidencia.
 
-Realizar las tareas más importantes de un tester.
+## Entregables incluidos
 
-Formato
-Link a una carpeta compartida (Drive, Onedrive, etc…). Dentro de la carpeta se deberán encontrar 3 archivos.
+- `Casos Prueba Cabral.xlsx`: matriz de casos de prueba.
+- `Práctica de bugs Cabral.pdf`: documentación de defectos.
+- `Reporte Cabral.pdf`: reporte de resultados.
 
-Un excel con los casos de prueba. Este archivo llevará el formato “CasosPrueba + Apellido”.
+## Alcance y herramientas
 
-Un pdf con los defectos seleccionados. Se espera un archivo “Práctica de bugs + Apellido”.
+- Tipo de prueba: [COMPLETAR: funcional, caja negra, regresión u otras].
+- Sistema bajo prueba: [COMPLETAR: nombre y URL, si corresponde].
+- Navegador y versión: [COMPLETAR].
+- Fecha de ejecución: [COMPLETAR].
+- Herramientas utilizadas: [COMPLETAR: navegador, Excel, capturas u otras].
 
-Un pdf con el reporte de resultados. Se espera un archivo llamado “Reporte + Apellido”.
+## Cobertura
 
-Importante
-Recuerda que debes trabajar con la página seleccionada en el primer actividad. Tienes aquí un Modelo de reporte
+- Casos positivos ejecutados: [COMPLETAR].
+- Casos negativos ejecutados: [COMPLETAR].
+- Defectos reproducidos y documentados: [COMPLETAR].
+- Casos aprobados, fallidos y bloqueados: [COMPLETAR].
 
-Rúbricas de evaluación
-Aspectos a evaluar
-Casos de prueba
-Se realizaron al menos 10 casos de pruebas, incluyendo toda la información relevante para su creación, teniendo en cuenta un mínimo de 5 casos positivos y 5 negativos. Perfecta articulación teórico práctica
+No se presentan cantidades ni estados como resultados verificados hasta completar esos campos con la evidencia de los archivos entregados.
 
-Reporte de defectos
-Se entregaron al menos 3 defectos encontrados. El reporte de los defectos fue claro, conciso y se utilizó un lenguaje profesional. Entrega de calidad profesional. Se da cuenta de todas las características de los defectos encontrados permitiendo el trabajo interdisciplinario.
+## Cómo revisar el trabajo
 
-Repurte de resultados
-El reporte de resultados presentado fue claro, perfectamente secuenciado. La información compartida da un panorama amplio de los resultados obtenidos. La redacción es excelente y utiliza un lenguaje técnico propio del ámbito del Testing. Se incluye nota de parte del profesional indicando el estado del proyecto al momento de su prueba.
+1. Consultar la matriz de Excel para revisar precondiciones, pasos, datos y resultados esperados/obtenidos.
+2. Revisar cada defecto del PDF y comprobar que incluya pasos reproducibles, resultado esperado, resultado actual, severidad y evidencia.
+3. Contrastar el reporte final con los estados registrados en la matriz.
+4. Verificar que las conclusiones y la recomendación de salida estén respaldadas por la ejecución.
+
+## Resultados y evidencia
+
+- [COMPLETAR: resumen real de PASS / FAIL / BLOCKED / NOT EXECUTED].
+- [COMPLETAR: principales defectos confirmados].
+- [COMPLETAR: conclusión Go / No-Go y justificación].
+
+## Limitaciones
+
+- Este repositorio contiene entregables documentales; no incluye una aplicación bajo prueba ni una suite de automatización.
+- La validez de los defectos depende de que sean reproducibles en la versión del sistema utilizada durante la actividad.
+- Las capturas y los resultados deben conservar contexto suficiente para identificar ambiente, fecha y pasos.
+- Si se utiliza un sitio público, su comportamiento puede cambiar y los resultados históricos no garantizan el estado actual.
+
+## Privacidad
+
+Antes de mantener este repositorio público, revisar los PDF, el Excel y las capturas para confirmar que no incluyan correos, teléfonos, credenciales, datos personales de terceros ni información de una empresa. Utilizar datos ficticios o anonimizados cuando corresponda.
+
+## Licencia
+
+[COMPLETAR: indicar si el material se publica con una licencia o si se comparte únicamente como trabajo académico.]
